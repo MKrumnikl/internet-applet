@@ -5,3 +5,4 @@ Exec=/usr/bin/internet_applet
 Terminal=false
 Type=Application
 NoDisplay=true
+
