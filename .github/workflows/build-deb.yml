@@ -18,6 +18,7 @@ jobs:
         run: |
           sudo apt update
           sudo apt install -y \
+            build-essential \
             debhelper \
             devscripts \
             lintian
