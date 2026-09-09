@@ -1,4 +1,4 @@
 internet_applet.desktop /etc/xdg/autostart/
-internet_applet.py /usr/bin/
+internet_applet.py /usr/bin/internet_applet
 green_icon.png /usr/share/internet-applet/
 red_icon.png /usr/share/internet-applet/
