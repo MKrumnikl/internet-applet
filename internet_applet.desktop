@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=InternetApplet
+Comment=Connectivity display
+Exec=/usr/bin/internet_applet.py
+Terminal=false
+Type=Application
+NoDisplay=true
